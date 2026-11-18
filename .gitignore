@@ -6,6 +6,7 @@ __pycache__/
 *.pt
 *.onnx
 data/
-datasets/
+/datasets/construction-ppe/
 runs/
 .cache/
+/datasets/coco8/

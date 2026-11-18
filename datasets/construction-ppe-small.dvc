@@ -1,0 +1,6 @@
+outs:
+- md5: 170216f9c0aba33c4bda391e8c32f999.dir
+  size: 105633467
+  nfiles: 323
+  hash: md5
+  path: construction-ppe-small
